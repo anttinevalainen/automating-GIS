@@ -10,19 +10,17 @@ The point is to use the travel time matrix data, which is too large dataset for 
 
 ### Analysis steps:
 
-- I started with the `Filefinder`, which is used with all the other codes as well. The `Filefinder` -function helps find files of a specific grid in the YKR dataset among the user's files. Next step was to combine the found data with the YKR grids, for which is done with the `Tablejoiner` -function I also created. I'm also using the `Tablejoiner` in the next functions.
+- I started with the [FileFinder](https://github.com/anttinevalainen/automating-GIS/blob/main/final_assignment/FileFinder.py), which is used with all the other codes as well. The `Filefinder` -function helps find files of a specific grid in the YKR dataset among the user's files. Next step was to combine the found data with the YKR grids, for which is done with the [TableJoiner](https://github.com/anttinevalainen/automating-GIS/blob/main/final_assignment/TableJoiner.py) -function I also created. I'm also using the [TableJoiner](https://github.com/anttinevalainen/automating-GIS/blob/main/final_assignment/TableJoiner.py) in the next functions.
 
-- The Visualizer function plots the given YKR grid with the given travel method and travel type. The function also works with multiple YKR grids and is able to produce an interactive map or a static map. The interactive map is saved as `.html` -file and the static map is saved as a `.png` -file
+- The [Visualizer](https://github.com/anttinevalainen/automating-GIS/blob/main/final_assignment/Visualizer.py) function plots the given YKR grid with the given travel method and travel type. The function also works with multiple YKR grids and is able to produce an interactive map or a static map. The interactive map is saved as `.html` -file and the static map is saved as a `.png` -file
 
-- `Comparisontool` -function uses the travel time matrix to compare different travel methods with each other.
+- [ComparisonTool](https://github.com/anttinevalainen/automating-GIS/blob/main/final_assignment/ComparisonTool.py) -function uses the travel time matrix to compare different travel methods with each other.
 
 ### Results:
 
-*All in all I think I did well with the final tasks and the course all together. The final assignment could've used some finishing touches, especially for the last function.
+- [.py -file with all the functions](https://github.com/anttinevalainen/automating-GIS/tree/main/final_assignment)
 
-[Filefinder](FileFinder.py)
-[TableJoiner](TableJoiner.py)
-[Visualizer](Visualizer.py)
-[ComparisonTool](ComparisonTool.py)
-
-[All functions together](Final.py)
+- [FileFinder](https://github.com/anttinevalainen/automating-GIS/blob/main/final_assignment/FileFinder.py)
+- [TableJoiner](https://github.com/anttinevalainen/automating-GIS/blob/main/final_assignment/TableJoiner.py)
+- [Visualizer](https://github.com/anttinevalainen/automating-GIS/blob/main/final_assignment/Visualizer.py)
+- [ComparisonTool](https://github.com/anttinevalainen/automating-GIS/blob/main/final_assignment/ComparisonTool.py)
