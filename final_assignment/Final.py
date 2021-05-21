@@ -32,7 +32,7 @@ def FileFinder(YKR_ID, foldername):
     #########ASSERTION#########
     #make sure that given ID/IDs are (a list of) integers/strings and the foldername is string
 
-    if type(YKR_ID) == list:
+    if type(YKR_ID) == builtins.list:
 
         for index in YKR_ID:
 
@@ -48,7 +48,7 @@ def FileFinder(YKR_ID, foldername):
 
 
     #if input is a single ID, turn it into a list of one value
-    if type(YKR_ID) != list:
+    if type(YKR_ID) != builtins.list:
         copy = YKR_ID
         YKR_ID = []
         YKR_ID.append(copy)
