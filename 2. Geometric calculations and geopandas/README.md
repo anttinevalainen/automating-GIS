@@ -35,6 +35,7 @@ The data has 81379 rows and consists of locations and times of social media post
 | lon_x | coordinate of the post |
 | timestamp   | Time when the post was uploaded|
 | userid   | unique user ID |
+
 Note: although the data is based on real social media data, it is heavily anonymized. Userids and timestamps have been randomized, i.e. they do not not match with real ones, also spatial accuracy of the data has been lowered.
 
 1.
