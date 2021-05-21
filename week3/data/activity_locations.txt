@@ -1,0 +1,3 @@
+id;name;addr
+0;home;malminrinne 2, 00100 Helsinki
+1;work;pohjoisesplanadi, 31 00100 Helsinki
