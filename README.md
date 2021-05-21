@@ -5,9 +5,9 @@
 - [1 - Geometric objects](https://github.com/anttinevalainen/automating-GIS/tree/main/1.%20Geometric%20objects)
 - [2 - Geometric calculations and GeoPandas](https://github.com/anttinevalainen/automating-GIS/tree/main/2.%20Geometric%20calculations%20and%20geopandas)
 - [3 - Geocoding and spatial analyses](https://github.com/anttinevalainen/automating-GIS/tree/main/3.%20Geocoding%20and%20spatial%20analyses)
-- [4. Classification and aggregation in GeoPandas](https://github.com/anttinevalainen/automating-GIS/tree/main/4.%20Classification%20and%20aggregation%20in%20geopandas)
-- [5. Static and interactive maps](https://github.com/anttinevalainen/automating-GIS/tree/main/5.%20Static%20and%20interactive%20maps)
-- [OSM and network analyses](https://github.com/anttinevalainen/automating-GIS/tree/main/6.%20OSM%20and%20network%20analyses)
+- [4 - Classification and aggregation in GeoPandas](https://github.com/anttinevalainen/automating-GIS/tree/main/4.%20Classification%20and%20aggregation%20in%20geopandas)
+- [5 - Static and interactive maps](https://github.com/anttinevalainen/automating-GIS/tree/main/5.%20Static%20and%20interactive%20maps)
+- [6 - OSM and network analyses](https://github.com/anttinevalainen/automating-GIS/tree/main/6.%20OSM%20and%20network%20analyses)
 
 ## Final assignment - AccesViz
 - [Main](https://github.com/anttinevalainen/automating-GIS/tree/main/final_assignment)
