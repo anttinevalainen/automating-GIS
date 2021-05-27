@@ -18,3 +18,11 @@
 - [TableJoiner](https://github.com/anttinevalainen/automating-GIS/blob/main/final_assignment/TableJoiner.py)
 - [Visualizer](https://github.com/anttinevalainen/automating-GIS/blob/main/final_assignment/Visualizer.py)
 - [ComparisonTool](https://github.com/anttinevalainen/automating-GIS/blob/main/final_assignment/ComparisonTool.py)
+
+
+```bash
+Antti Sankari Nevalainen
+a@anttisankari.com
+www.anttisankari.com
+https://github.com/anttinevalainen
+```
