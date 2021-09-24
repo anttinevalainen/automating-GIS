@@ -14,10 +14,10 @@
 - [README](https://github.com/anttinevalainen/automating-GIS/blob/main/final%20assignment/README.md)
 
 - [.py -file with all the functions](https://github.com/anttinevalainen/automating-GIS/blob/main/Final%20assignment/Final.py)
-- [FileFinder](https://github.com/anttinevalainen/automating-GIS/blob/main/final%20assignment/FileFinder.py)
-- [TableJoiner](https://github.com/anttinevalainen/automating-GIS/blob/main/final%20assignment/TableJoiner.py)
-- [Visualizer](https://github.com/anttinevalainen/automating-GIS/blob/main/final%20assignment/Visualizer.py)
-- [ComparisonTool](https://github.com/anttinevalainen/automating-GIS/blob/main/final%20assignment/ComparisonTool.py)
+- [FileFinder](https://github.com/anttinevalainen/automating-GIS/blob/main/Final%20assignment/FileFinder.py)
+- [TableJoiner](https://github.com/anttinevalainen/automating-GIS/blob/main/Final%20assignment/TableJoiner.py)
+- [Visualizer](https://github.com/anttinevalainen/automating-GIS/blob/main/Final%20assignment/Visualizer.py)
+- [ComparisonTool](https://github.com/anttinevalainen/automating-GIS/blob/main/Final%20assignment/ComparisonTool.py)
 
 
 ```bash
