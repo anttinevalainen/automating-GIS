@@ -10,14 +10,14 @@
 - [6 - OSM and network analyses](https://github.com/anttinevalainen/automating-GIS/tree/main/6.%20OSM%20and%20network%20analyses)
 
 ## Final assignment - AccesViz
-- [Main](https://github.com/anttinevalainen/automating-GIS/tree/main/final_assignment)
-- [README](https://github.com/anttinevalainen/automating-GIS/blob/main/final_assignment/README.md)
+- [Main](https://github.com/anttinevalainen/automating-GIS/tree/main/final%20assignment)
+- [README](https://github.com/anttinevalainen/automating-GIS/blob/main/final%20assignment/README.md)
 
 - [.py -file with all the functions](https://github.com/anttinevalainen/automating-GIS/blob/main/Final%20assignment/Final.py)
-- [FileFinder](https://github.com/anttinevalainen/automating-GIS/blob/main/final_assignment/FileFinder.py)
-- [TableJoiner](https://github.com/anttinevalainen/automating-GIS/blob/main/final_assignment/TableJoiner.py)
-- [Visualizer](https://github.com/anttinevalainen/automating-GIS/blob/main/final_assignment/Visualizer.py)
-- [ComparisonTool](https://github.com/anttinevalainen/automating-GIS/blob/main/final_assignment/ComparisonTool.py)
+- [FileFinder](https://github.com/anttinevalainen/automating-GIS/blob/main/final%20assignment/FileFinder.py)
+- [TableJoiner](https://github.com/anttinevalainen/automating-GIS/blob/main/final%20assignment/TableJoiner.py)
+- [Visualizer](https://github.com/anttinevalainen/automating-GIS/blob/main/final%20assignment/Visualizer.py)
+- [ComparisonTool](https://github.com/anttinevalainen/automating-GIS/blob/main/final%20assignment/ComparisonTool.py)
 
 
 ```bash
